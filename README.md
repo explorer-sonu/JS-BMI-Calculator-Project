@@ -1,7 +1,7 @@
 # JS-BMI-Calculator-Project
 This is a simple BMI calculator project implemented in JavaScript. It calculates a person's BMI based on their weight and height and provides information about their weight status.
  👉
-[Live Preview]()
+[Live Preview](https://explorer-sonu.github.io/JS-BMI-Calculator-Project/)
 
 ## Features
 
